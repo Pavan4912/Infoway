@@ -1,0 +1,5 @@
+dependancies for hibernate
+
+for database, mysql connector
+for jsp, jsp api
+for hibernate, hibernate core relocation, 5.5.4
